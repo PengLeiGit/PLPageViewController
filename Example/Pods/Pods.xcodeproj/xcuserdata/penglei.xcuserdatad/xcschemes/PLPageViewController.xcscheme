@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0930"
+   LastUpgradeVersion = "1100"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "83A6E7F6CA4640FCB812AD8682CEECEB"
+               BlueprintIdentifier = "6B347077EF15FD6D8FA9149347366442"
+               BuildableName = "PLPageViewController.framework"
                BlueprintName = "PLPageViewController"
-               ReferencedContainer = "container:Pods.xcodeproj"
-               BuildableName = "PLPageViewController.framework">
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

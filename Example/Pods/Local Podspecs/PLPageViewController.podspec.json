@@ -18,11 +18,12 @@
   "platforms": {
     "ios": "8.0"
   },
-  "swift_version": "5.0",
+  "swift_versions": "5.0",
   "source_files": "PLPageViewController/Classes/**/*",
   "dependencies": {
     "SnapKit": [
 
     ]
-  }
+  },
+  "swift_version": "5.0"
 }

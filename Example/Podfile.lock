@@ -8,7 +8,7 @@ DEPENDENCIES:
   - SnapKit (= 4.2.0)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - SnapKit
 
 EXTERNAL SOURCES:
@@ -16,9 +16,9 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  PLPageViewController: f4395cb3cc83497122297d2ebfbf17fcfe5c6669
+  PLPageViewController: eafb801ed311ab30b4fd94b99d3fb7a925551731
   SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
 
-PODFILE CHECKSUM: fa67ff7f0c16fca41c31823aa1f8ba3b37ff95c8
+PODFILE CHECKSUM: e9d594cb38a5a3347a56436d953fa27df678d109
 
-COCOAPODS: 1.6.0.beta.2
+COCOAPODS: 1.8.4
