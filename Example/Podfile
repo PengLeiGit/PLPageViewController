@@ -1,0 +1,7 @@
+source 'https://github.com/CocoaPods/Specs.git'        #官方仓库地址
+use_frameworks!
+target 'PLPageViewController_Example' do
+  pod 'SnapKit',  '4.2.0'
+  pod 'PLPageViewController', :path => '../'
+  # 自动布局
+end

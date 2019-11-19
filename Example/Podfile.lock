@@ -1,0 +1,24 @@
+PODS:
+  - PLPageViewController (0.1.1):
+    - SnapKit
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - PLPageViewController (from `../`)
+  - SnapKit (= 4.2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  PLPageViewController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PLPageViewController: f4395cb3cc83497122297d2ebfbf17fcfe5c6669
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: fa67ff7f0c16fca41c31823aa1f8ba3b37ff95c8
+
+COCOAPODS: 1.6.0.beta.2

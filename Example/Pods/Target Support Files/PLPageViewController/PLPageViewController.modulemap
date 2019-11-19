@@ -1,0 +1,6 @@
+framework module PLPageViewController {
+  umbrella header "PLPageViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}
