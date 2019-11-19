@@ -1,5 +1,5 @@
 PODS:
-  - PLPageViewController (0.1.1):
+  - PLPageViewController (0.1.2):
     - SnapKit
   - SnapKit (4.2.0)
 
@@ -16,7 +16,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  PLPageViewController: eafb801ed311ab30b4fd94b99d3fb7a925551731
+  PLPageViewController: c32ddf9c1882d0df9a5240d021fcd89293937606
   SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
 
 PODFILE CHECKSUM: e9d594cb38a5a3347a56436d953fa27df678d109
